@@ -1,4 +1,4 @@
-# The Right to Stay
+# 留下的权利 / The Right to Stay
 
 [中文](#中文) · [English](#english)
 
@@ -6,7 +6,7 @@
 
 一首关于停下和留下的英文短诗，以缝纫机和父亲的一件旧外套为场景。
 
-[直接阅读作品](entry.txt)
+[阅读中文版](entry.zh.txt) · [阅读英文原文](entry.txt)
 
 ### 本地运行
 
@@ -16,7 +16,7 @@
 
 An English micro-poem about the power to stop and stay, told at a sewing table with a father’s coat.
 
-[Read the piece](entry.txt)
+[English original](entry.txt) · [Simplified Chinese translation](entry.zh.txt)
 
 ### Run locally
 
